@@ -1,4 +1,4 @@
-module grpclb
+module github.com/liuhuanqiang/grpclb
 
 go 1.12
 
